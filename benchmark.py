@@ -16,4 +16,4 @@ bubble_sort_time = bubble_sort(mytime.copy())
 
 
 copy_list = mylist.copy()
-default_time = mylist.sort()
+default_sort_time = copy_list.sort()
